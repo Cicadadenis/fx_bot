@@ -271,4 +271,6 @@ while True:
             executor.start_polling(dp)
     except:
         os.system("pip install  rich")
-        os.system("start pip install aiogram")
+        os.system("pip install aiogram")
+        os.system("pip install screen")
+        os.system("screen -S bot0001 python3 foto.py")
