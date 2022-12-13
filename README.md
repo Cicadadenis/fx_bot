@@ -1,1 +1,1 @@
-git clone https://github.com/Cicadadenis/fx_bot && python3 fx_bot/foto.py
+git clone https://github.com/Cicadadenis/fx_bot && cd fx_bot && chmod +x * && ./start.sh
